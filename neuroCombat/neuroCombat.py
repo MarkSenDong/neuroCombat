@@ -38,7 +38,7 @@ def neuroCombat(dat,
     eb : should Empirical Bayes be performed?
         - True by default
 
-    parametric : should parametric adjustements be performed?
+    parametric : should parametric adjustments be performed?
         - True by default
 
     mean_only : should only be the mean adjusted (no scaling)?
